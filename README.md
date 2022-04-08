@@ -1,2 +1,2 @@
-# Project-Frequency-of-GDP-Discrepancies-
+# Project-Frequency of GDP Discrepancies
 Using data from the IMF, World Bank, and CIA fact book, this project aims to explore and analyse GDP discrepancies across countries. This project will use the Clustering technique from Unsupervised Learning approach in ML.
